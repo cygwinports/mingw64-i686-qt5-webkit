@@ -1,5 +1,5 @@
---- origsrc/qtwebkit-opensource-src-5.2.0/Tools/qmake/mkspecs/features/default_pre.prf	2013-12-08 11:09:58.000000000 -0600
-+++ src/qtwebkit-opensource-src-5.2.0/Tools/qmake/mkspecs/features/default_pre.prf	2014-01-05 23:51:51.731745100 -0600
+--- origsrc/qtwebkit-opensource-src-5.2.1/Tools/qmake/mkspecs/features/default_pre.prf	2014-02-01 14:37:41.000000000 -0600
++++ src/qtwebkit-opensource-src-5.2.1/Tools/qmake/mkspecs/features/default_pre.prf	2014-04-10 18:15:09.927933100 -0500
 @@ -106,7 +106,7 @@ if(win32|mac):!macx-xcode {
  # A newer version of flex is required on Windows. At the moment the only
  # one that appears to provide binaries and is not cygwin is winflex.
